@@ -1,0 +1,68 @@
+body {
+	font-family: verdana;
+	background-color: #D8D8D8;
+}
+
+#assignment {
+	width: 300px;
+	height: 400px;
+	background-color: #CCFF99;
+	position: fixed;
+	border: black solid 4px;
+	top: 50%;
+	margin-top: -200px;
+}
+
+#title {
+	text-align: center;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+#calendar_table_container {
+	width: 915px;
+	margin: 0 auto;
+}
+
+#calendar_table{
+	border: solid black 4px;
+	background-color: #FFFFFF;
+}
+
+#month {
+	font-size: 30px;
+}
+
+#year {
+	font-size: 30px;
+}
+
+.clicker {
+	background-color: #CCFF99;
+}
+
+#name_form {
+	margin-left: 10px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#color_select {
+	display: inline-block;
+}
+
+#submit_container {
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#ready_names {
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+
+
+
+
+
